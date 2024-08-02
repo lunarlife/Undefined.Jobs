@@ -11,5 +11,7 @@
       <PackageReference Include="Undefined.Events" Version="1.0.4" />
       <PackageReference Include="Undefined.Verify" Version="2.0.0" />
     </ItemGroup>
-
+    <ItemGroup>
+        <None Include="../LICENSE" Pack="true" PackagePath=""/>
+    </ItemGroup>
 </Project>
